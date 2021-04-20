@@ -145,5 +145,4 @@ showRecipe()
 //polyfiling to es5 
 //    npm i core-js regenerator-runtime
 function newfeature() {
-  console.log('Hello new branch')
 }
